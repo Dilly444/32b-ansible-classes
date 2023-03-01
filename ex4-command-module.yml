@@ -1,6 +1,6 @@
 -
  name: pb on use case of command module
- hosta: all
+ hosts: all
  tasks:
   - name: code to create a directory
     command:
