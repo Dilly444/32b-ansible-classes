@@ -1,0 +1,7 @@
+-
+ name: pb on use case of command module
+ hosta: all
+ tasks:
+  - name: code to create a directory
+     command:
+      cmd: mkdir /opt/USA
